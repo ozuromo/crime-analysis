@@ -6,3 +6,35 @@
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2024-09-16 16:06:59,963:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-16 16:07:57,426:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-16 16:07:57,426:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-16 16:07:57,426:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-16 16:07:57,426:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-16 17:19:25,772:WARNING:C:\Users\arthu\AppData\Local\Temp\ipykernel_18236\3199177141.py:4: FutureWarning: `use_index` defaults to False but will default to True in future. Set True/False directly to control this behavior and silence this warning
+  wq  = weights.contiguity.Rook.from_dataframe(data)
+
+2024-09-16 17:23:16,587:WARNING:c:\ProgramData\miniconda3\envs\mestrado\Lib\site-packages\IPython\core\completerlib.py:371: UserWarning: This is now an optional IPython functionality, using bookmarks requires you to install the `pickleshare` library.
+  bks = self.db.get('bookmarks',{})
+
+2024-09-16 17:39:14,961:WARNING:C:\Users\arthu\AppData\Local\Temp\ipykernel_18236\3711844234.py:15: UserWarning: Matplotlib is currently using module://matplotlib_inline.backend_inline, which is a non-GUI backend, so cannot show the figure.
+  jgrid.fig.show()
+
+2024-09-16 17:39:32,028:WARNING:C:\Users\arthu\AppData\Local\Temp\ipykernel_18236\2880750846.py:15: UserWarning: Matplotlib is currently using module://matplotlib_inline.backend_inline, which is a non-GUI backend, so cannot show the figure.
+  jgrid.figure.show()
+
+2024-09-16 17:39:48,763:WARNING:C:\Users\arthu\AppData\Local\Temp\ipykernel_18236\3505152465.py:14: UserWarning: Matplotlib is currently using module://matplotlib_inline.backend_inline, which is a non-GUI backend, so cannot show the figure.
+  jgrid.figure.show()
+
+2024-09-16 17:42:12,133:WARNING:C:\Users\arthu\AppData\Local\Temp\ipykernel_18236\825853075.py:13: UserWarning: Matplotlib is currently using module://matplotlib_inline.backend_inline, which is a non-GUI backend, so cannot show the figure.
+  jgrid.figure.show()
+
+2024-09-16 17:45:33,702:WARNING:C:\Users\arthu\AppData\Local\Temp\ipykernel_18236\825853075.py:13: UserWarning: Matplotlib is currently using module://matplotlib_inline.backend_inline, which is a non-GUI backend, so cannot show the figure.
+  jgrid.figure.show()
+
+2024-09-16 17:48:18,289:WARNING:C:\Users\arthu\AppData\Local\Temp\ipykernel_18236\825853075.py:13: UserWarning: Matplotlib is currently using module://matplotlib_inline.backend_inline, which is a non-GUI backend, so cannot show the figure.
+  jgrid.figure.show()
+
