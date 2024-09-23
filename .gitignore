@@ -1,0 +1,19 @@
+# Ignore data files
+*.csv
+*.hdf5
+*.parquet
+/data/*
+
+# Ignore model files
+*.pkl
+*.h5
+
+# Ignore Jupyter notebook checkpoints and outputs
+.ipynb_checkpoints/
+**/output_*.ipynb
+**/outputs/
+
+# Ignore temporary files or cache
+__pycache__/
+*.log
+*.tmp
