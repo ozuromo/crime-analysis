@@ -17,3 +17,6 @@
 __pycache__/
 *.log
 *.tmp
+
+# Ignore keys
+*.json
